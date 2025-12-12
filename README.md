@@ -1,28 +1,25 @@
-# Online Library Website
+# Online Library
 
-This is a university team project developed using PHP and MySQL.
-The project represents a simple online library system that allows users to browse books by categories and manage book records.
+This is a simple PHP-based online library project developed for academic purposes.
 
 ## Features
-- User registration and login
-- Browse books by category (novels, scientific, religious, self-development)
+- User login and signup
+- View books by category
 - Add and delete books
-- Data stored in MySQL database
+- View personal book list
 
-## Technologies Used
+## Technologies
 - PHP
+- HTML
+- CSS
 - MySQL
-- HTML & CSS
-- XAMPP
 
-## How to Run the Project
+## How to Run
 1. Install XAMPP
-2. Copy the project to `htdocs`
+2. Copy the project folder to `htdocs`
 3. Start Apache and MySQL
-4. Create database `database_library`
-5. Import SQL file from `/db/database_library.sql`
-6. Open `http://localhost/online-library/index.php`
+4. Open the project in the browser using:
+   http://localhost/online-library
 
-## Notes
-- PDF files are not included due to copyright restrictions.
-- This project was developed for educational purposes only.
+## Note
+This project runs on a local server and is uploaded to GitHub for source code sharing only.
